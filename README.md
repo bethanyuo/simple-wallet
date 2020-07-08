@@ -35,3 +35,6 @@ Create a method that takes JSON and a password, decrypts the JSON and returns a 
 
 ## Sign a Transaction
 Create a method that signs a transaction and returns it.
+
+### Module
+MI2: Module 3: E2
